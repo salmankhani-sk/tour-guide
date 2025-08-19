@@ -21,7 +21,7 @@ The project includes **user authentication, image uploads, responsive design, an
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS, Framer Motion, React Router, Axios  
 - **Backend**: Node.js, Express.js, MongoDB (Mongoose), JWT, Multer, Bcrypt  
@@ -30,7 +30,7 @@ The project includes **user authentication, image uploads, responsive design, an
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 Before running the project, install:
 

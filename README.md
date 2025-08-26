@@ -59,6 +59,7 @@ cd backend
 ## Install dependencies:
 ```bash
 npm install
+npm init -y 
 ```
 
 * Install Nodemon (if not already in package.json):
